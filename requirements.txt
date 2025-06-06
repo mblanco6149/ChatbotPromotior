@@ -8,4 +8,4 @@ pydantic<2
 faiss-cpu
 uvicorn
 python-dotenv
-beautifulsoup4
+httpx==0.25.2
